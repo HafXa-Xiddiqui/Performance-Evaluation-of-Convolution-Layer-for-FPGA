@@ -10,3 +10,7 @@ Following are the objecting of the project:
 • Perform convolution without DSPs
 • Perform convolution with DSPs
 • Parallelization in the Neural network layer.
+
+# Case 1 Results: 
+![image](https://github.com/user-attachments/assets/784ccbbc-60f5-425e-b05d-ba72757da906)
+
