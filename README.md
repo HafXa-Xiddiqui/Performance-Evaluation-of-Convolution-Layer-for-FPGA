@@ -14,3 +14,11 @@ Following are the objecting of the project:
 # Case 1 Results: 
 ![image](https://github.com/user-attachments/assets/784ccbbc-60f5-425e-b05d-ba72757da906)
 
+# Case 2 Results:
+![image](https://github.com/user-attachments/assets/db5ced9b-7bef-4ac9-b25e-ed0fc7604d62)
+
+# Case 3 Results:
+![image](https://github.com/user-attachments/assets/5386ad25-d973-417c-a0c1-bf77dd27691c)
+
+Conclusion: 
+
