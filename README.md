@@ -9,4 +9,4 @@ To evaluate the performance of Convolution layer on FPGAs.
 Following are the objecting of the project:
 • Perform convolution without DSPs
 • Perform convolution with DSPs
-• Improvement in the Neural network layer.
+• Parallelization in the Neural network layer.
