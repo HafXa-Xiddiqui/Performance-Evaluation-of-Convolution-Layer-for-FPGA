@@ -23,7 +23,7 @@ Each operation is executed immediately after its predecessor for small subsets o
 For instance, after performing convolution on a small set of elements, batch normalization and activation are applied to these elements right away. Once enough processed elements accumulate, max pooling is performed.
 ![image](https://github.com/user-attachments/assets/5386ad25-d973-417c-a0c1-bf77dd27691c)
 
-Conclusion: 
+# Conclusion: 
 With DSPs, power consumption is reduced due to the decrease in overall resource usage. However, the delay increases when using DSPs. This is primarily due to factors such as pipeline stages in DSPs, routing delays, and synchronization overhead. These issues can be mitigated through strategies such as reducing pipeline depth, partitioning the workload, and optimizing data flow.
 
 In Case 3, DSP utilization is reduced, but power consumption increases due to the higher utilization of LUTs.
